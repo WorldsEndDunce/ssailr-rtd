@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'SimpleSAILR'
-copyright = '2023, Allison Tee'
+copyright = '2023, Allison Tee and Celia Blanco'
 author = 'Allison Tee and Celia Blanco'
 
 release = '0.1'
