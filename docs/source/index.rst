@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
+SimpleSAILR: Simple Sequence Analysis of In-vitro Laboratory Reads
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SimpleSAILR** is a tool that pre-processes and analyzes high-throughput sequencing (HTS) data from in-vitro experiments.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The software is available to download for free on `GitHub <https://github.com/WorldsEndDunce/SimpleSAILR>`_
+and offers a *simple* and *user-friendly* way for experimentalists to assemble, count, analyze, and visualize Illumina data of DNA, RNA, or proteins.
+
+Check out the :doc:`usage` section for further information, including :ref:`installation`.
 
 .. note::
 
